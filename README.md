@@ -1,4 +1,4 @@
-# data-science
+# Data-science
 
 My practice repo for learning data science with Python. Right now it's mostly the basics: pandas, numpy, seaborn and matplotlib. I'll add machine learning stuff as I get to it.
 
