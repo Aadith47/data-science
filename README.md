@@ -8,7 +8,7 @@ Nothing here is polished. It's notebooks and scripts I wrote while learning, so 
 
 - **Pandas:** loading data, cleaning it, filtering, groupby
 - **NumPy:** arrays and basic operations
-- **Seaborn / Matplotlib:** plots for exploring data
+- **Seaborn / Matplotlib:** plots for exploring data.
 - **Palmer Penguins EDA:** my most complete project so far (details below)
 
 ## Palmer Penguins EDA
