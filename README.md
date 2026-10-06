@@ -31,10 +31,6 @@ python export_charts.py
 
 For the notebooks, install Jupyter and open them the usual way.
 
-## Coming next
-
-- Predicting penguin species from the measurements
-- More ML basics with scikit-learn
 
 ## About
 
